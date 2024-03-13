@@ -1,5 +1,5 @@
 ### 👋방갑습니다!
-<a href="https://www.notion.so/sunjuhyeon/5e666da0df164381a973e5f8d14dd3fb?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=000000&link=https://www.notion.so/sunjuhyeon/5e666da0df164381a973e5f8d14dd3fb?pvs=4"/></a>
+<a href="https://www.notion.so/sunjuhyeon/juhyeon-Sun-ae947db426224682935ee15e4bfe4cc6" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Portfolio&logoColor=000000&link=https://www.notion.so/sunjuhyeon/juhyeon-Sun-ae947db426224682935ee15e4bfe4cc6"/></a>
 <br/>
 <ul>
   <li> 🌈 UXUI디자인에 관심이 많은 개발자입니다.</li>
