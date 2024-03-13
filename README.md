@@ -2,8 +2,12 @@
 <a href="https://www.notion.so/sunjuhyeon/5e666da0df164381a973e5f8d14dd3fb?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=000000&link=https://www.notion.so/sunjuhyeon/5e666da0df164381a973e5f8d14dd3fb?pvs=4"/></a>
 <br/>
 <div><h5>📚 언어 및 도구</h1></div>
-<img src="https://img.shields.io/badge?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/></br>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <!--
 **Sunjuhyeon/Sunjuhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
