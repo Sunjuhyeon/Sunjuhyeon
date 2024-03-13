@@ -10,9 +10,9 @@
 <p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vue&logoColor=white"/>
-<img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=scss&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=node&logoColor=white"/>
+<img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/scss-CC6699?style=flat-square&logo=sass&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/node-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
