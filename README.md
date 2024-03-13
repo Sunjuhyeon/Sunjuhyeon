@@ -1,6 +1,6 @@
 ### 👋방갑습니다!
 <div><h5>📚 언어 및 도구</h1></div>
-<a href="링크주소"><img src="https://img.shields.io/badge/notion-ffffff?style=flat-square&logo=notion&logoColor=000000&link=링크주소"/></a>
+<a href="링크주소"><img src="https://img.shields.io/badge/notion-FFFFFF?style=flat-square&logo=notion&logoColor=000000&link=링크주소"/></a>
 <br/>
 <div><h5>📚 언어 및 도구</h1></div>
 <img src="https://img.shields.io/badge?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
