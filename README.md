@@ -6,8 +6,7 @@
   <li> 🗣️ 커뮤니케이션을 중요하게 생각합니다.</li>
   <li> 📖 기록을 통해 성장합니다.</li>
 </ul>
-<br/>
-<div><h5>📚 언어 및 도구</h1></div>
+<div style="margin-top=10px"><h4>📚 언어 및 도구</h1></div>
 <p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
