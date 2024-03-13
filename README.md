@@ -1,5 +1,5 @@
 ### 👋방갑습니다!
-<a href="https://www.notion.so/sunjuhyeon/juhyeon-Sun-ae947db426224682935ee15e4bfe4cc6" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Portfolio&logoColor=000000&link=https://www.notion.so/sunjuhyeon/juhyeon-Sun-ae947db426224682935ee15e4bfe4cc6"/></a>
+<a href="https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8" rel="nofollow"><img src="https://camo.githubusercontent.com/7b52987348ec07a88dfcf2604277007919a82e7e9ee1577dba51b3b5e4c6c273/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d6666666666663f7374796c653d666c61742d737175617265266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d626c61636b266c696e6b3d68747470733a2f2f7777772e6e6f74696f6e2e736f2f47656f6e2d4c65652d3061326561643830376563323437393162356637356135643039373466636138" alt="Portfolio Badge" data-canonical-src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;logo=Notion&amp;logoColor=black&amp;link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8" style="max-width: 100%;"></a>
 <br/>
 <ul>
   <li> 🌈 UXUI디자인에 관심이 많은 개발자입니다.</li>
