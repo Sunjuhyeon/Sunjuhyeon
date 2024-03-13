@@ -15,8 +15,7 @@
 <img src="https://img.shields.io/badge/node-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunjuhyeon&layout=compact)
+</p>
 <!--
 **Sunjuhyeon/Sunjuhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
